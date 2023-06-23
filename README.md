@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy ingeniero de software profesional desde hace más de siete años.
+I'm software engineer with expertise in frontend development from 7 years ago.
 
 
 ## 🌐 Socials:
