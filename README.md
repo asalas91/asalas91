@@ -13,7 +13,7 @@ I'm software engineer with expertise in frontend development from 7 years ago.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asalas91&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asalas91&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=asalas91&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
